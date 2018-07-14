@@ -1,0 +1,131 @@
+# tutorial-de-como-dibujar-un-cart-n-con-lenguaje-CSS.
+*{
+    width:400;
+    height:400;
+    position:absolute ;
+}
+
+.l1{
+    width:2px;
+    height:200px;
+    padding:1px;
+    background-color:red;
+    margin-top:0px;
+    margin-left:0px;
+    
+}
+
+.l2{
+    width:200px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:0px;
+    margin-left:0px;
+    
+}
+
+.l3{
+    width:2px;
+    height:200px;
+    padding:1px;
+    background-color:red;
+    margin-top:0px;
+    margin-left:200px;
+    
+}
+
+.l4{
+    width:200px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:200px;
+    margin-left:0px;
+    
+}
+
+.l5{
+    width:2px;
+    height:200px;
+    padding:1px;
+    background-color:red;
+    margin-top:100px;
+    margin-left:100px;
+    
+}
+
+.l6{
+    width:200px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:100px;
+    margin-left:100px;
+    
+}
+
+.l7{
+    width:2px;
+    height:200px;
+    padding:1px;
+    background-color:red;
+    margin-top:100px;
+    margin-left:300px;
+    
+}
+
+.l8{
+    width:200px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:300px;
+    margin-left:100px;
+    
+}
+
+.l9{
+    width:140px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:250px;
+    margin-left:-20px;
+    -webkit-transform:rotate(45deg);
+    
+}
+
+
+.l10{
+    width:140px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:50px;
+    margin-left:180px;
+    -webkit-transform:rotate(45deg);
+    
+}
+
+.l11{
+    width:140px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:50px;
+    margin-left:-20px;
+    -webkit-transform:rotate(45deg);
+    
+}
+
+.l12{
+    width:140px;
+    height:2px;
+    padding:1px;
+    background-color:red;
+    margin-top:250px;
+    margin-left:180px;
+    -webkit-transform:rotate(45deg);
+    
+}
